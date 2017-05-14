@@ -41,7 +41,7 @@
     "express": "^4.13.4",
     "html-webpack-plugin": "^2.9.0",
     "json-loader": "^0.5.3",
-    "mocha": "^2.2.5",
+    "mocha": "^3.4.1",
     "react-addons-test-utils": "^15.1.0",
     "redux-logger": "^2.0.1",
     "style-loader": "^0.13.0",
